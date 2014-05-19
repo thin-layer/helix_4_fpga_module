@@ -1,0 +1,6 @@
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=U_DDR2 DRAM|SchDesignator=U_DDR2 DRAM|FileName=4 - DDR2 DRAM.SchDoc|SymbolType=Normal|RawFileName=4 - DDR2 DRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=U_FPGA|SchDesignator=U_FPGA|FileName=2 - FPGA.SchDoc|SymbolType=Normal|RawFileName=2 - FPGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=5 - Power.SchDoc|SymbolType=Normal|RawFileName=5 - Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=U_SRAM|SchDesignator=U_SRAM|FileName=3 - SRAM.SchDoc|SymbolType=Normal|RawFileName=3 - SRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=0 - Title.SchDoc|Designator=U_Top|SchDesignator=U_Top|FileName=1 - Top.SchDoc|SymbolType=Normal|RawFileName=1 - Top.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=0 - Title.SchDoc
